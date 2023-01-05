@@ -53,10 +53,10 @@ export default {
      data(){
        return{
         credentials: {
-          id:'',
-          nickname:'',
-          password: '',
-          passwordCheck: '',
+          id:'kym',
+          nickname:'김여민',
+          password: '091204',
+          passwordCheck: '091204',
         }  
        }
      },
